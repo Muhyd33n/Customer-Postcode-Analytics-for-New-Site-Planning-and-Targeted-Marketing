@@ -3,7 +3,7 @@
 Customer location plays a crucial role in choosing where to open new stores and how to execute local marketing.
 This tool helps brands understand where their strongest and highest spending customers are located, making it easier to identify promising catchments and plan targeted communication after opening.
 
-![Alt text](assets/streamlit_image1.png)
+![Alt text](assets/streamlit_image2.png)
 
 ##  Problem Statement
 
@@ -29,6 +29,9 @@ The Customer Postcode Analytics tool delivers:
 It becomes a self-serve tool for analysts, planners, marketers and strategy teams.
 
 ##  How to Use
+
+![Alt text](assets/streamlit_image1.png)
+
 1. Enter a UK postcode
 2. Choose a radius (in miles)
 3. Upload your customer file (CSV or Excel)
