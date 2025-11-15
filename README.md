@@ -35,6 +35,7 @@ It becomes a self-serve tool for analysts, planners, marketers and strategy team
 6. Specify the customer spend column name (optional)
 7. Click the Search button
 8. Review the outputs
+   
    Including:
   - Postcode area customer counts
   - Total database comparison
