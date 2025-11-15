@@ -3,6 +3,8 @@
 Customer location plays a crucial role in choosing where to open new stores and how to execute local marketing.
 This tool helps brands understand where their strongest and highest spending customers are located, making it easier to identify promising catchments and plan targeted communication after opening.
 
+![Alt text](assets/streamlit_image1.png)
+
 ##  Problem Statement
 
 #### Brands often struggle with:
