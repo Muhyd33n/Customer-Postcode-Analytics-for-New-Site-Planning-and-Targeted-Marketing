@@ -3,7 +3,7 @@
 Customer location plays a crucial role in choosing where to open new stores and how to execute local marketing.
 This tool helps brands understand where their strongest and highest spending customers are located, making it easier to identify promising catchments and plan targeted communication after opening.
 
-## 🏁 Problem Statement
+##  Problem Statement
 
 #### Brands often struggle with:
 - Identifying customer density around a potential new site
@@ -15,7 +15,7 @@ Most teams have data but lack a fast, automated, postcode-driven analysis workfl
 
 This tool solves that by providing postcode radius analytics, spend insights, segmentation, mapping, and AI narrative summaries in one place.
 
-## 🚀 Solution Overview
+##  Solution Overview
 
 The Customer Postcode Analytics tool delivers:
 - Customer location mapping around any UK postcode
@@ -26,7 +26,7 @@ The Customer Postcode Analytics tool delivers:
 - AI-generated commercial insight summaries
 It becomes a self-serve tool for analysts, planners, marketers and strategy teams.
 
-## 📘 How to Use
+##  How to Use
 1. Enter a UK postcode
 2. Choose a radius (in miles)
 3. Upload your customer file (CSV or Excel)
